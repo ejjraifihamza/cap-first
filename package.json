@@ -1,0 +1,22 @@
+{
+  "name": "cap-first",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejjraifihamza/cap-first.git"
+  },
+  "keywords": [
+    "\"capitalize\""
+  ],
+  "author": "Hamza EJJRAIFI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejjraifihamza/cap-first/issues"
+  },
+  "homepage": "https://github.com/ejjraifihamza/cap-first#readme"
+}
