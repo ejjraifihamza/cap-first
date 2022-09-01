@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ejjraifihamza/cap-first/issues"
   },
-  "homepage": "https://github.com/ejjraifihamza/cap-first#readme"
+  "homepage": "https://github.com/ejjraifihamza/cap-first#readme",
+  "engines": {
+    "node": ">= 9.0.0"
+  }
 }
